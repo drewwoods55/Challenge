@@ -1,0 +1,7 @@
+MEDIUM: In the new text file you created, answer the following questions:
+1. Explain what the terminal is in your own words.
+	The terminal is the user interface allowing you to use tet entry into the Apple operating system.
+2. What is the major difference between Git and Github?
+	The major difference between Git and Github is that Git is a version control system that is kept on a local server. Github is a cloud-based Git repository hosting service.
+3. Why do we use Github?
+	We use Github because it is a way version control that we use to branch off of the main code so that any change we make individually will not affect the main code unless it is pushed to the top code.
